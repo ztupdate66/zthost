@@ -1,0 +1,13 @@
+How to install the Vortex Anti-Bot on your landing page
+
+1. Rename your index.html for index2.html
+
+2. Unzip the folder and upload the contents to your landing root.
+
+3. You should now have: index.html index2.html 404.html secure.png
+
+4. Edit your index2.html (Landing Page) and paste this
+  <script src="web.js"></script>
+
+5. You have successfully installed the anti bot you can now host your website
+
